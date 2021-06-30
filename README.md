@@ -1,3 +1,4 @@
+[![License](https://img.shields.io/github/license/Blackoutburst/My-Hunter.svg)](LICENSE)
 # My Hunter
 My Hunter is a school project, this project is a shooter game like duck hunt. This game is called Magicel Hunt and I use pixel art design.
 
